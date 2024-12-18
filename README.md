@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ajamis/ajamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salma Ajami
 
-Here are some ideas to get you started:
+👋 Hi, I'm Salma Ajami, a passionate Computer Engineering student and software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🚀 **Pursuing a degree in Computer Engineering**, with a strong focus on backend development.
+
+💻 **Specializing in Python and Django**. I love working with Linux (Debian & Ubuntu) to build and deploy Django projects.
+
+🔧 **Proficient in version control** using Git and GitHub for efficient collaboration and code management.
+
+🎨 **Basic frontend knowledge** including HTML, CSS, and JavaScript. 
+
+📊 **Working knowledge of SQL** for database management.
+
+🎯 My goal is to build scalable, reliable web applications and continue mastering backend technologies.
+
+## Skills
+
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Django, Flask
+- **Tools**: Git, GitHub, Docker, Postman
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Operating Systems**: Linux (Debian, Ubuntu)
+
+
