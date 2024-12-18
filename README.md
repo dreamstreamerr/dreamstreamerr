@@ -21,8 +21,8 @@
 
 - **Languages**: Python, JavaScript, HTML, CSS
 - **Frameworks**: Django, Flask
-- **Tools**: Git, GitHub, Docker, Postman
-- **Databases**: MySQL, PostgreSQL, SQLite
+- **Tools**: Git, GitHub, Docker
+- **Databases**: SQLite
 - **Operating Systems**: Linux (Debian, Ubuntu)
 
 
