@@ -26,3 +26,11 @@
 - **Operating Systems**: Linux (Debian, Ubuntu)
 
 
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&size=large)](https://www.linkedin.com/in/salma-a-8581642bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&size=small)](https://t.me/salma_ajami)
+
+---
+
