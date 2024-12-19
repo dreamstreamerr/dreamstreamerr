@@ -20,11 +20,7 @@ Currently, I’m enhancing my skills in backend development and building meaning
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 
 ### ⚙️ Tools & Platforms
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-- ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat-square)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square) - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square) - ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat-square)
 
 ### 🗄️ Databases
 - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
@@ -34,6 +30,6 @@ Currently, I’m enhancing my skills in backend development and building meaning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&size=large)](https://www.linkedin.com/in/salma-a-8581642bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&size=small)](https://t.me/salma_ajami)
-
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:salmaajami7@gmail.com)
 ---
 
