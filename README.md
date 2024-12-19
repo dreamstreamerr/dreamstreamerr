@@ -1,7 +1,7 @@
 
 # Salma Ajami
 
-👋 Hi, I'm Salma Ajami, a passionate Computer Engineering student and software developer in Iran/Golestan.
+👋 Hi, I'm Salma Ajami.
 
 ## About Me
 
