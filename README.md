@@ -4,13 +4,12 @@
 👋 Hi, I'm Salma Ajami, a passionate Computer Engineering student and software developer in Iran/Golestan.
 
 ## About Me
-I’m currently pursuing a degree in Computer Engineering in Golestan, Iran. My passion lies in exploring the world of technology and continuously learning new tools and skills.
+### About Me
+### About Me
+I’m a Computer Engineering student from Golestan, Iran, with a passion for web development and software engineering.  
+I specialize in Python and Django, and I have hands-on experience with HTML, CSS, and basic JavaScript. I’m also familiar with version control systems like Git and GitHub, and I’ve worked on deploying Django projects on Linux systems such as Debian.  
 
-I have hands-on experience with Python as my primary programming language and have worked with Django for web development. My journey has also involved building foundational knowledge in HTML, CSS, and JavaScript, alongside a basic understanding of SQL for database management.
-
-In addition, I’m familiar with version control systems like Git and GitHub, which I use to manage and collaborate on projects. On the systems side, I’ve spent time working with Linux, particularly Debian, for deploying and managing web applications.
-
-I’m committed to improving my skills every day, diving deeper into software development, and building meaningful projects that challenge me to grow.
+Currently, I’m enhancing my skills in backend development and building meaningful projects that challenge me to grow.
 
 ## 🛠️ Tech Stack
 
