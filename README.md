@@ -16,7 +16,7 @@ Currently, I’m enhancing my skills in backend development and building meaning
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
 ### 🖥️ Frameworks & Libraries
-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square) - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
 
 ### ⚙️ Tools & Platforms
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square) - ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat-square)
