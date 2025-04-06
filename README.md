@@ -5,8 +5,10 @@
 
 ## About Me
 
-I’m a Computer Engineering student from Golestan, Iran, with a passion for web development and software engineering.  
-I specialize in Python and Django, and I have hands-on experience with HTML, CSS, and basic JavaScript. I’m also familiar with version control systems like Git and GitHub, and I’ve worked on deploying Django projects on Linux systems such as Debian.  
+Hey there! I’m a Computer Engineering student from Golestan, Iran, and I’ve got a real passion for web development and software engineering.
+I mainly work with Python and Django, but I’ve also got hands-on experience with HTML, CSS, and a bit of JavaScript. I’ve deployed Django projects on Linux systems like Debian.
+
+Right now, I’m working on leveling up my backend development skills and building projects that push me to grow and learn more. I’m also diving into the world of machine learning and exploring its possibilities.
 
 Currently, I’m enhancing my skills in backend development and building meaningful projects that challenge me to grow.
 
@@ -23,6 +25,8 @@ Currently, I’m enhancing my skills in backend development and building meaning
 
 ### 🗄️ Databases
  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+ ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
 
 
 ## Connect with Me
